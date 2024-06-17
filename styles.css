@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+th, td{
+	padding: 1px 25px;
+	border: 1px solid black
+}
+table{
+	border-collapse:collapse;
+}
+
+
+
+
+
+
